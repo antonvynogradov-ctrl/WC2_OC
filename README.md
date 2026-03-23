@@ -21,9 +21,8 @@
 | Етап | Технічна дія | Візуалізація |
 |:---:|:---|:---:|
 | **01** | Запуск майстра створення нового оточення через інтерфейс **New**. | <a href="https://ibb.co/JWz074m6"><img src="https://i.ibb.co/p63Gz8bV/photo-2026-03-23-19-15-50.jpg" alt="photo 2026 03 23 19 15 50" border="0"></a> |
-| **02** | Визначення ідентифікатора (`Ubuntu_22.04`), архітектури (Linux) та версії ядра. | <img src="https://i.ibb.co/xSLmSksq/image.png" width="250"> |
-| **03** | Розподіл оперативної пам'яті (RAM) для забезпечення стабільної роботи. | <img src="https://i.ibb.co/3mWy6XSc/image.png" width="250"> |
-| **04** | Створення та форматування віртуального накопичувача (VDI) об'ємом до 50 ГБ. | <img src="https://i.ibb.co/zTR63YfX/image.png" width="250"> |
+| **02** | Визначення ідентифікатора (`Ubuntu_22.04`), архітектури (Linux) та версії ядра. | <a href="https://ibb.co/WNVXR4FN"><img src="https://i.ibb.co/p6hTkBZ6/photo-2026-03-23-19-19-26.jpg" alt="photo 2026 03 23 19 19 26" border="0"></a> |
+| **03** | Розподіл оперативної пам'яті (RAM) для забезпечення стабільної роботи. | <a href="https://ibb.co/s9cLqBHW"><img src="https://i.ibb.co/5hCqL7FK/photo-2026-03-23-19-34-10.jpg" alt="photo 2026 03 23 19 34 10" border="0"></a> |
 
 ---
 
