@@ -69,7 +69,6 @@
 **Результат запуску графічного стека:**
 <p align="center">
   <img src="https://i.ibb.co/Xcwx8Vx/image.png" width="30%" />
-  <img src="https://i.ibb.co/d46LvC3B/image.png" width="30%" />
   <img src="https://i.ibb.co/bjV3FVnz/image.png" width="30%" />
 </p>
 
@@ -79,9 +78,6 @@
 
 Для дослідження різниці у продуктивності було додатково встановлено легковажну оболонку **XFCE**. Це середовище орієнтоване на ефективне використання системних ресурсів.
 
-<p align="center">
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/M5GGn1wg/image.png" alt="Робочий стіл XFCE" border="0"></a>
-</p>
 
 ## Технічне порівняння: GNOME vs XFCE
 
