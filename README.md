@@ -31,17 +31,17 @@
 Було проведено повне розгортання дистрибутиву Ubuntu Desktop. Процес включав розмітку диска, створення користувача та базове налаштування середовища.
 
 <p align="center">
-  <img src="https://i.ibb.co/Z1XDs5qW/image.png" width="30%" />
   <img src="https://i.ibb.co/yBPJbrST/image.png" width="30%" />
+  <img src="https://i.ibb.co/Z1XDs5qW/image.png" width="30%"/>
 </p>
 <p align="center">
+  <img src="https://i.ibb.co/20CG3YY7/image.png" width="30%" />
   <img src="https://i.ibb.co/C5dft39T/image.png" width="30%" />
-  <img src="https://i.ibb.co/4RHBnj1H/image.png" width="30%" />
 </p>
 <p align="center">
   <img src="https://i.ibb.co/Pvgsrw29/image.png" width="30%" />
-  <img src="https://i.ibb.co/20CG3YY7/image.png" width="30%" />
   <img src="https://i.ibb.co/rG9Gf5zC/image.png" width="30%" />
+  <img src="https://i.ibb.co/4RHBnj1H/image.png" width="30%" />
 </p>
 
 ---
