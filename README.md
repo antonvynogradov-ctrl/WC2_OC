@@ -32,12 +32,10 @@
 
 <p align="center">
   <img src="https://i.ibb.co/Z1XDs5qW/image.png" width="30%" />
-  <img src="https://i.ibb.co/c95t9BH/image.png" width="30%" />
   <img src="https://i.ibb.co/yBPJbrST/image.png" width="30%" />
 </p>
 <p align="center">
   <img src="https://i.ibb.co/C5dft39T/image.png" width="30%" />
-  <img src="https://i.ibb.co/MJmf0ns/image.png" width="30%" />
   <img src="https://i.ibb.co/4RHBnj1H/image.png" width="30%" />
 </p>
 <p align="center">
