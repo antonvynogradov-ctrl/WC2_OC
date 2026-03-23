@@ -9,7 +9,7 @@
 > **Статус:** Платформу віртуалізації успішно встановлено та налаштовано.
 
 <p align="center">
-  <a href="https://ibb.co/tpmMbLx5"><img src="https://i.ibb.co/zVnhS67w/image.png" alt="Інтерфейс VirtualBox" width="80%"></a>
+  > ![](photo_2026-03-22_20-54-00.jpg)
 </p>
 
 ---
